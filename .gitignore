@@ -1,0 +1,9 @@
+logs/
+__pycache__/
+*.pkl
+*.pdf
+data/raw/
+data/features/
+data/*.csv
+!data/filtered_companies.csv
+!data/cluster_profiles.csv

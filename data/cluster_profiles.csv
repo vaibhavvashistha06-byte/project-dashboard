@@ -1,0 +1,4 @@
+cluster,n,log_mcap,pe_trailing,pb,profit_margin,avg_net_margin_pct,revenue_growth,earnings_growth,revenue_cagr_pct,net_income_cagr_pct,price_cagr_5y_pct,volatility_annual_pct,max_drawdown_5y_pct,beta,dividend_yield
+0,28,5.2,67.0,11.8,9.7,8.9,27.8,64.2,16.3,26.6,26.5,33.7,-41.2,0.4,0.3
+1,23,5.1,22.6,2.8,42.8,31.4,21.1,21.7,13.2,25.7,20.4,34.1,-38.6,0.5,1.2
+2,49,5.3,24.5,3.4,11.3,10.8,17.8,12.7,7.4,11.0,7.1,25.1,-35.7,0.4,1.2

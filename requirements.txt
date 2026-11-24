@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+lightgbm
+yfinance
+# TA-Lib optional: pipeline falls back to 12 built-in patterns without it
+
+plotly
